@@ -1,0 +1,26 @@
+.body-header {
+  border-bottom: 8px solid #888;
+  background-color: #444;
+  font: serif;
+}
+
+/* Header Buttons */
+
+.header-button {
+  font-size: 24px;
+  margin-left: 20px;
+}
+
+.header-button:link,
+.header-button:visited
+{
+  color: white;
+  text-decoration: none;
+}
+
+.header-button:hover {
+  color: hotpink;
+  border-bottom: 8px solid hotpink;
+  text-decoration: none;
+  cursor: pointer;
+}
